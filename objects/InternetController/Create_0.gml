@@ -1,9 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-output_list = ds_list_create()
-output_max_size = 20
-console("Hello World")
-
 
 
 sock = network_create_socket(network_socket_tcp)

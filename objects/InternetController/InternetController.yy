@@ -2,7 +2,7 @@
     "id": "68a730f5-72f4-4fcc-bd6a-a922f3766419",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Controller",
+    "name": "InternetController",
     "eventList": [
         {
             "id": "fdf57373-4951-412a-97e7-6f12eea663a0",
@@ -12,16 +12,6 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "68a730f5-72f4-4fcc-bd6a-a922f3766419"
-        },
-        {
-            "id": "64ffc8a6-8900-463c-955f-2eab65d55cb3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
             "m_owner": "68a730f5-72f4-4fcc-bd6a-a922f3766419"
         },
         {

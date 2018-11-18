@@ -146,7 +146,7 @@
             "Key": "68a730f5-72f4-4fcc-bd6a-a922f3766419",
             "Value": {
                 "id": "0ed61139-a276-4655-996e-22fc11a8a547",
-                "resourcePath": "objects\\Controller\\Controller.yy",
+                "resourcePath": "objects\\InternetController\\InternetController.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "86191eca-2e74-49a1-b132-375406aad7e7",
+            "Value": {
+                "id": "17fce73d-7abd-40e2-bde8-6aabd473e975",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a0c25347-bebe-4578-9ac7-9d5fcbe4ec0e",
             "Value": {
                 "id": "d0bec665-4f7a-4a72-a0b4-14714c2bea3b",
@@ -196,6 +204,14 @@
                 "id": "4819eb7d-6219-4051-a936-3c20396318db",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b21b1c6b-dd67-4ef1-83b9-8463a79ab5aa",
+            "Value": {
+                "id": "6633b611-8004-4782-ae1e-51b759b973e7",
+                "resourcePath": "objects\\obj_textbox\\obj_textbox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -231,11 +247,35 @@
             }
         },
         {
+            "Key": "d09460b9-d2bb-43c8-a62a-74a23db0a856",
+            "Value": {
+                "id": "d50b24b2-b7ca-438a-909e-c0ea2195527a",
+                "resourcePath": "sprites\\spr_textbox\\spr_textbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ddc315f7-661a-4d63-a67d-905c3d8f2570",
+            "Value": {
+                "id": "69193817-0d08-4495-b539-63b227e526b3",
+                "resourcePath": "objects\\ConsoleController\\ConsoleController.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "bdce27f5-7a4f-4713-b7ed-a765bb3aca3d",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "f1c7861f-64c3-4642-a618-042b6aa616a9",
+            "Value": {
+                "id": "7540835d-ecd2-4f0d-a67e-beb1ad2b0dc5",
+                "resourcePath": "scripts\\net_send_message\\net_send_message.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -272,7 +312,8 @@
         }
     ],
     "script_order": [
-        "497e3643-0d6d-4f62-9dab-bdce7fffdd4d"
+        "497e3643-0d6d-4f62-9dab-bdce7fffdd4d",
+        "f1c7861f-64c3-4642-a618-042b6aa616a9"
     ],
     "tutorial": ""
 }
